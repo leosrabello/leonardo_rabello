@@ -2,4 +2,4 @@
 LEONARDO SILVA RABELLO
 
 ### TRABALHO REALIZADO UTILIZANDO AS SEGUINTES PAGINAS:
-vendedores.html // style-vendedores.css // tables.js 
+vendedores.html // style-vendedores.css // table.js 
